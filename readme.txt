@@ -7,7 +7,7 @@ Stable tag: 1.0.0
 Requires PHP: 7.4.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
-A simple plugin that notifies customers if they already own the product they are viewing to avoid buying the same product more than one time.
+A simple plugin that notifies customers if they already own the product they are viewing.
 
 == Description ==
 
